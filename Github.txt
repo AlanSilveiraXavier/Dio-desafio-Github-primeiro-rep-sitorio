@@ -1,0 +1,62 @@
+ Git é um repositório de controle de versão de arquivos, utilizado para controlar versões de códigos-fonte e desenvolvimento colaborativo. 
+
+Foi criado em 2005 pelo Linus Torvalds, criador do kernel do Linux, para hospedar o código-fonte do Linux e permitir a colaboração em seu desenvolvimento, já que a antiga empresa que hospedava seu código, a BitKeeper, queria passar a cobrar pelos seus serviços. 
+
+Para você entender melhor sobre a importância do Git, na segunda edição da GeekStream, Felipe Fialho confidenciou que dominar os comandos do Git é uma das coisas mais importantes na carreira de desenvolvedor. 
+
+ 
+
+O git pode ser instalado em plataformas Linux/Debian por meio do comando: 
+
+sudo apt-get install git 
+
+Em outras plataformas como Windows ou Mac, você pode baixar por meio destes links: 
+
+Download Git para Windows 
+
+Download Git para Mac. 
+
+ 
+
+Como usar o GitHub 
+
+Vamos ao nosso GitHub tutorial sobre como utilizar o GitHub com os principais passos na ferramenta. 
+
+Antes, você precisa criar sua conta pessoal ou uma conta de equipe na página oficial do GitHub. 
+
+É totalmente gratuito para repositórios pessoais e para times, como alguns planos pagos mais avançados para times e empresas. 
+
+Depois de criar sua conta, utilize o Hello World Guide da plataforma para saber como criar o seu primeiro repositório, fazer um branch ou abrir um pull request. 
+
+O que é um repositório 
+
+Um repositório é um espaço em que todos os arquivos de um projeto específico são armazenados. 
+
+Cada projeto tem seu próprio repositório e você pode acessá-lo com um URL exclusivo. 
+
+Visual Studio Code como editor de texto padrão do Git 
+
+ 
+
+Por que utilizar o Visual Studio Code como padrão do Git? Afinal de contas, o Git já utiliza o VIM como editor de texto no console. 
+
+Justamente por essa opção não permitir uma experiência otimizada para configuração e utilização do Git, simples assim. 
+
+Então veremos uma opção simples, mas que muitos desconhecem, que se refere a utilizar a interface gráfica do Visual Studio Code como editor default para a ferramenta de versionamento. 
+
+A importância do GitHub 
+
+Já o GitHub, lançado em 2008, é uma versão para web do Git. 
+
+Os projetos no GitHub são em sua grande maioria open source, mas é possível tornar seu código código privado, disponível somente para algumas pessoas ou criando times. 
+
+O GitHub já se tornou um dos, senão o maior armazém de códigos na nuvem. 
+
+O README do GitHub 
+
+Um elemento importante para os seus projetos mas que nem sempre recebe a devida atenção é o arquivo README. 
+
+O README é a primeira impressão do seu trabalho. Sempre tenha um na raiz do projeto. 
+
+Um bom README é aquele que contém uma boa descrição do objetivo, onde e como usar, lista de funcionalidades, dependências para funcionar. Exemplos de uso será um plus. 
+
